@@ -5,27 +5,32 @@
 </h3>
 
 ------
-### 1. Use of the Bot
+### 1. Limitation of Liability
+> - The Universe bot is provided "as is" without any warranties, express or implied. We make no representations or warranties of any kind, whether expressed or implied, regarding the functionality, reliability, or availability of the Universe bot.
+> - We shall not be held liable for any direct, indirect, incidental, consequential, or special damages arising out of or in any way connected with the use or inability to use the Universe bot, including but not limited to damages for loss of profits, data, or other intangible assets, even if we have been advised of the possibility of such damages.
+> - Users acknowledge that the use of the Universe bot is at their own risk and discretion.
+
+### 2. Use of the Bot
 > - The Universe bot is intended for personal or community use only. It is prohibited to use this bot for any unlawful, harmful, or Discord policy-violating purposes.
 > - Manipulation or disruption of the Universe bot's functionality, Discord servers, or other users is strictly prohibited.
 
-### 2. Changes and Termination
+### 3. Changes and Termination
 > - We reserve the right to modify or terminate the Universe bot at any time without prior notice.
 > - We reserve the right to disable your access to the Universe bot if you violate these terms and conditions.
 
-### 3. Privacy and User Data
+### 4. Privacy and User Data
 > - We do not collect or store personal data of Discord users through the use of the Universe bot.
 > - Please exercise caution and respect the privacy of other users when using the Universe bot.
 
-### 4. Copyright Infringement
+### 5. Copyright Infringement
 > - It is prohibited to use the Universe bot for copyright infringement or violation of third-party intellectual property rights. Ensure that you only use content for which you have proper permission or rights.
 > - If there are reports or suspicions of copyright infringement related to the use of the Universe bot, we reserve the right to review and take appropriate action, including the removal of infringing content and legal response to complaints.
 
-### 5. Abuse and Violations
+### 6. Abuse and Violations
 > - Misuse of the Universe bot, including but not limited to spamming, attacking or disrupting other Discord servers, distributing offensive or violating content, or using it contrary to Discord policies, is strictly prohibited.
 > - If misuse or violations are discovered, we reserve the right to take appropriate action, including reporting such actions to Discord or relevant authorities.
 
-### 6. Updates and Notifications
+### 7. Updates and Notifications
 > - We reserve the right to update, modify, or change these terms and conditions for the Universe bot. Changes will take effect after being notified through appropriate communication channels or by updates on our website.
 > - It is recommended to periodically review these terms and conditions to ensure your compliance.
 
